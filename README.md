@@ -100,3 +100,4 @@ All scripts are included in the directory.
 - YouTube (Maya lighting & materials)
 - ChatGPT assistance for logic and scripting
 
+<img width="1919" height="1022" alt="3dclock" src="https://github.com/user-attachments/assets/9765ed6b-2f82-41a5-94c3-63192d6892d5" />
